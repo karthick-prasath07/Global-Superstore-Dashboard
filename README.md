@@ -2,6 +2,9 @@
 ## 🔍 Introduction
 This Power BI project presents an interactive sales dashboard for a fictional Global Superstore, offering a comprehensive overview of business performance across various markets, segments, and products. The dashboard delivers deep insights into sales performance, customer behavior, and product profitability, allowing decision-makers to identify trends and take data-driven actions.
 
+## Dashboard
+![GlobalSuperstore-Dashboard](https://github.com/user-attachments/assets/58c7dc44-0549-4748-838b-497721c63a05)
+
 ## 💡 Skills Showcased
 💻 DAX (Data Analysis Expressions)
 Created dynamic measures and KPIs for:
